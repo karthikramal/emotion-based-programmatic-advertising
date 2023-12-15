@@ -23,17 +23,17 @@ However, the time period for the availability of the particular user's or custom
 
 Cross-functional teams: 
 On the other hand, the company will cater its digital marketing campaigns specifically targeting their potential customers based on their real-time emotions and situations. To cater to digital marketing campaigns, we strongly believe that a cross-functional team must lead the show rather than a conventional marketing team. Because digital marketing has become an integral part of our business ecosystem, it is more than a sales tool or an awareness tool. It's a prestige and a brand for corporations in today’s modern world. To take this battle up, the cross-functional team is the only capable segment that is equipped with multivariate skills, expertise, and backgrounds that will be helpful in understanding comprehensive customer insights aligned with their products’ potential. Therefore, in our particular model, we recommend that a cross-functional team include at least an individual from each of the departments mentioned below:
-/n Marketing: To extract market-related information
-/n Product Development: To understand product insights
-Finance: To understand the financial aspects of the company and its customers
-Sales: To integrate historical sales data
-Customer Experience: To understand the customer problems
-Creative: To understand the designs attractive to potential customers
-Copywriting: To create ad copies, especially for potential customers
-Retail network: To integrate retail data
-Partners: To understand their perspectives on the potential customers
-Psychology experts: To understand and identify csutomers' pain points, interests, and psychology
-& Customers: To directly understand the customers and create customer journeys
+<br>Marketing: To extract market-related information
+<br>Product Development: To understand product insights
+<br>Finance: To understand the financial aspects of the company and its customers
+<br>Sales: To integrate historical sales data
+<br>Customer Experience: To understand the customer problems
+<br>Creative: To understand the designs attractive to potential customers
+<br>Copywriting: To create ad copies, especially for potential customers
+<br>Retail network: To integrate retail data
+<br>Partners: To understand their perspectives on the potential customers
+<br>Psychology experts: To understand and identify csutomers' pain points, interests, and psychology
+<br>& Customers: To directly understand the customers and create customer journeys
 
 Additionally, many pieces of information and data can be retrieved other than for the reasons mentioned here by including these departments in the development of modernized digital marketing campaigns.
 
