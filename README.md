@@ -1,4 +1,4 @@
-**Developing a Model for Cross-Functional Teams to Understand Customers' Interests in a Web-Cookie-Less Environment Within Digital Media Sector (Onscreen real-time data synthetics).**
+**Developing a model for digital media tech companies and cross-functional teams to understand customer interests in a web-cookie-less environment to increase the effectiveness of digital ADs.**
 
 Note: This is a model idea used for my research as I am pursuing a Master of Entrepreneurship in Technology Innovation Management at Carleton University, Ottawa, Canada. This is the initial phase of this research, and more phases are planned by me to conduct ahead. Examples include shifting from cookie tracking to emotion-based advertising, refining the existing model, understanding customer psychology, linking customer insights and product insights, etc. I wish anyone could find it helpful to build the system using this as a foundation. For more information contact me at karthikramal89@gmail.com.
 
