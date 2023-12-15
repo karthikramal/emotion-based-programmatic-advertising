@@ -23,8 +23,8 @@ However, the time period for the availability of the particular user's or custom
 
 Cross-functional teams: 
 On the other hand, the company will cater its digital marketing campaigns specifically targeting their potential customers based on their real-time emotions and situations. To cater to digital marketing campaigns, we strongly believe that a cross-functional team must lead the show rather than a conventional marketing team. Because digital marketing has become an integral part of our business ecosystem, it is more than a sales tool or an awareness tool. It's a prestige and a brand for corporations in today’s modern world. To take this battle up, the cross-functional team is the only capable segment that is equipped with multivariate skills, expertise, and backgrounds that will be helpful in understanding comprehensive customer insights aligned with their products’ potential. Therefore, in our particular model, we recommend that a cross-functional team include at least an individual from each of the departments mentioned below:
-Marketing: To extract market-related information
-Product Development: To understand product insights
+/n Marketing: To extract market-related information
+/n Product Development: To understand product insights
 Finance: To understand the financial aspects of the company and its customers
 Sales: To integrate historical sales data
 Customer Experience: To understand the customer problems
