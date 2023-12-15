@@ -12,6 +12,7 @@ Chapter 1
 1.0 Introduction
 
 Please refer to this image to view the model:
+
 ![image](https://github.com/karthikramal/emotion-based-programmatic-advertising/assets/153757585/a8dcf215-6ec6-487f-8203-7562b1aff96f)
 
 Brief: 
